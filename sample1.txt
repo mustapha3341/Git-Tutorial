@@ -1,1 +1,2 @@
-This is the first sample text
+This is the first sample text.
+I just added another paragraph
